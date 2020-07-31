@@ -4,6 +4,6 @@ Sample application demonstrating how to use supervisors and genservers
 
 ## How to play
 
-- Load application `git push -u origin master`
-- Tinker with process hierarchy `git push -u origin master`
+- Load application `mix -S iex`
+- Tinker with process hierarchy `:observer.start`
 
